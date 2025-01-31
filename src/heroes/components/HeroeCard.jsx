@@ -25,7 +25,7 @@ export const HeroeCard = ({ id,
 
  
   return (
-    <div className="col">
+    <div className="col animate__animated animate__bounce animate__delay-2s">
         <div className="card">
             <div className="row no-gutters">
                 <div className="col-md-4">
